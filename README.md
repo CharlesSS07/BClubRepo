@@ -31,7 +31,7 @@ for more info on using git, see: http://rogerdudler.github.io/git-guide/
 
  - A folder labelled BClubRepo will appear inside the folder you are currently in. This contains everything up to date.
 
- - run ```git add \<file\>``` on \<file\> to upload it, then ```git commit -m <message>``` with message \<message\> and ```git push``` to send the updates to the server for everyone to access.
+ - run ```git add <file>``` on \<file\> to upload it, then ```git commit -m <message>``` with message \<message\> and ```git push``` to send the updates to the server for everyone to access.
 
  - Periodically run ```git pull``` to update everything.
 
