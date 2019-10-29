@@ -105,3 +105,6 @@ venv.bak/
 
 # blender backups
 *.blend1
+
+# Mac directory hidden files
+.DS_store
