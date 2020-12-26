@@ -2,7 +2,7 @@
 
 This is a git repo for the Los Alamos High School Blender Club projects.
 
-For access to the repo or questions, the owner, Charles Strauss, is available on discord:
+For access to the repo or questions, the owner is available on discord: spaghettio#5924
 
 ## About Git
 
